@@ -1,7 +1,7 @@
 # cerebro-docker
 A minimal docker image of Cerebro - Elasticsearch Web Admin Tool
 
-# Summary
+# Description
 
 Docker image of Cerebro. Cerebro is an open source(MIT License) elasticsearch web admin tool built using Scala, Play Framework, AngularJS and Bootstrap developed by Leonardo Menezes.
 
