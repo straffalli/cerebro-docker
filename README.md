@@ -7,10 +7,6 @@ Docker image of Cerebro. Cerebro is an open source(MIT License) elasticsearch we
 
 For a full description please refer to [https://github.com/lmenezes/cerebro](https://github.com/lmenezes/cerebro)
 
-# Supported tags and respective `Dockerfile` links
-
-* [`0.7.1`, `latest` (*Dockerfile*)](https://)
-
 # Usage
 
 **Run Cerebro with default settings**
