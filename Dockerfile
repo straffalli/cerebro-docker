@@ -2,7 +2,7 @@ FROM alpine:latest
 
 LABEL maintainer="Stephane Raffalli <stephane.raffalli@gmail.com>"
 
-ENV CEREBRO_VERSION=0.7.1
+ENV CEREBRO_VERSION=0.9.4
 
 RUN apk update && \
     apk add --no-cache bash openjdk8 ca-certificates openssl
